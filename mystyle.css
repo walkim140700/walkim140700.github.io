@@ -1,0 +1,16 @@
+body {background-color: Snow;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: Verdana, Sans-Serif;
+  font-weight: bold;
+}
+p {
+  font-family: Georgia, serif;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  table-layout: auto;
+  width: 180px;
+  font-family: Georgia, serif;
+  text-align: left;
+}
